@@ -4,6 +4,7 @@ This repository contains the tasks completed as part of my **Web Development Int
 
 ## 📁 Folder Structure
 
+```
 Cognifyz-WebDev-Internship-2025/
 ├── Level-2/
 │ ├── Task-1/
@@ -31,7 +32,7 @@ Cognifyz-WebDev-Internship-2025/
 │ └── Task-2/
 │ ├── landing_page.html
 │ └── style.css
-
+```
 
 ## 🛠️ Technologies Used
 
