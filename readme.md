@@ -1,8 +1,8 @@
-# Cognifyz Web Development Internship – 2025 🚀
+# Cognifyz Web Development Internship – 2025
 
 This repository contains the tasks completed as part of my **Web Development Internship at Cognifyz Technologies** during July 2025. The internship focused on responsive design, layout implementation, interactive elements, and landing page creation using modern web technologies.
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 .
@@ -38,41 +38,41 @@ This repository contains the tasks completed as part of my **Web Development Int
 
 ```
 
-## 🛠️ Technologies Used
+## Technologies Used
 
-- **HTML5**
-- **CSS3**
-- **Bulma CSS Framework**
-- **Bootstrap Grid System**
-- **Responsive Web Design Principles**
+- HTML5
+- CSS3
+- Bulma CSS Framework
+- Bootstrap Grid System
+- Responsive Web Design Principles
 
-## 📌 Tasks Overview
+## Tasks Overview
 
-### 🔹 Level 2
+### Level 2
 
-- **Task 1**  
-  - 📇 `Responsive_card` – Responsive card UI using **Bulma**
-  - 🧱 `Responsive_grid` – Responsive grid layout using **Bootstrap**
+#### Task 1
+  - `Responsive_card` – Responsive card UI using **Bulma**
+  - `Responsive_grid` – Responsive grid layout using **Bootstrap**
 
-- **Task 2**  
-  - 🍔 `Hamburger_menu` – Navigation menu with a responsive hamburger toggle
-  - 📐 `Responsive_layout` – General-purpose layout adapting to screen sizes
+#### Task 2
+  - `Hamburger_menu` – Navigation menu with a responsive hamburger toggle
+  - `Responsive_layout` – General-purpose layout adapting to screen sizes
 
-### 🔹 Level 3
+### Level 3
 
-- **Task 1**  
-  - 🖼️ `Image_gallery` – A clean responsive image gallery
-  - 🎞️ `Slideshow` – Interactive slideshow/carousel with transitions
+#### Task 1
+  - `Image_gallery` – A clean responsive image gallery
+  - `Slideshow` – Interactive slideshow/carousel with transitions
 
-- **Task 2**  
-  - 🌐 `Landing_page` – Modern and responsive landing page design for a web developer internship
+#### Task 2
+  - `Landing_page` – Modern and responsive landing page design for a web developer internship
 
-## 📌 Notes
+##  Notes
 
 - All styling is handled via **external CSS** in each respective folder.
 - JS was not used in Level 2 Task 1, keeping it CSS-framework focused.
 
-## 📎 Final Thoughts
+## Final Thoughts
 
 This internship gave me hands-on experience in building responsive user interfaces and improved my understanding of frontend development best practices.
 
@@ -80,11 +80,11 @@ This internship gave me hands-on experience in building responsive user interfac
 
 Feel free to explore the folders and try out each project!
 
-## 🔗 Connect with Me
+## Connect with Me
 
-- **GitHub**: [github.com/dgaurav8052](https://github.com/dgaurav8052)
-- **LinkedIn**: [Gaurav Dwivedi](https://www.linkedin.com/in/gaurav-dwivedi-9b2001271)
-- **Email**: dgaurav8052@gmail.com
+- GitHub: [github.com/dgaurav8052](https://github.com/dgaurav8052)
+- LinkedIn: [Gaurav Dwivedi](https://www.linkedin.com/in/gaurav-dwivedi-9b2001271)
+- Email: dgaurav8052@gmail.com
 
 ---
 
