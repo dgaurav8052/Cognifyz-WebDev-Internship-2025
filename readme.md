@@ -5,33 +5,37 @@ This repository contains the tasks completed as part of my **Web Development Int
 ## 📁 Folder Structure
 
 ```
-Cognifyz-WebDev-Internship-2025/
-├── Level-2/
-│ ├── Task-1/
-│ │ ├── Responsive_card/
-│ │ │ ├── card_bulma.html
-│ │ │ └── style.css
-│ │ └── Responsive_grid/
-│ │ ├── grid_bootstrap.html
-│ │ └── style.css
-│ └── Task-2/
-│ ├── Hamburger_menu/
-│ │ ├── hamburger_menu.html
-│ │ └── style.css
-│ └── Responsive_layout/
-│ ├── responsive_layout.html
-│ └── style.css
-├── Level-3/
-│ ├── Task-1/
-│ │ ├── Image_gallery/
-│ │ │ ├── image_gallery.html
-│ │ │ └── style.css
-│ │ └── Slideshow/
-│ │ ├── slideshow.html
-│ │ └── style.css
-│ └── Task-2/
-│ ├── landing_page.html
-│ └── style.css
+.
+├── Level-2
+│   ├── Task-1
+│   │   ├── Responsive_card
+│   │   │   ├── card_bulma.html
+│   │   │   └── style.css
+│   │   └── Responsive_grid
+│   │       ├── grid_bootstrap.html
+│   │       └── style.css
+│   └── Task-2
+│       ├── Hamburger_menu
+│       │   ├── hamburger_menu.html
+│       │   └── style.css
+│       └── Responsive_layout
+│           ├── responsive_layout.html
+│           └── style.css
+├── Level-3
+│   ├── Task-1
+│   │   ├── Image_gallery
+│   │   │   ├── image_gallery.html
+│   │   │   └── style.css
+│   │   └── Slideshow
+│   │       ├── slideshow.html
+│   │       └── style.css
+│   └── Task-2
+│       ├── landing_page.html
+│       └── style.css
+└── readme.md
+
+13 directories, 15 files
+
 ```
 
 ## 🛠️ Technologies Used
