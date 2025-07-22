@@ -45,6 +45,7 @@ This repository contains the tasks completed as part of my **Web Development Int
 - Bulma CSS Framework
 - Bootstrap Grid System
 - Responsive Web Design Principles
+- Tailwind CSS
 
 ## Tasks Overview
 
